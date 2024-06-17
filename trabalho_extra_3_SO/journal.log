@@ -1,0 +1,15 @@
+2024-06-17T12:43:47.911807 - createDirectory: testDir 
+2024-06-17T12:43:47.925295800 - copyFile: sourceFile.txt testDir\copiedFile.txt 
+2024-06-17T12:48:53.139999500 - createDirectory: C:\DIRETORIOTESTE 
+2024-06-17T12:48:53.157344800 - copyFile: C:\DIRETORIOTESTE\sourceFile.txt C:\DIRETORIOTESTE\copiedFile.txt 
+2024-06-17T12:48:53.165120400 - deleteFile: C:\DIRETORIOTESTE\copiedFile.txt 
+2024-06-17T12:48:53.165120400 - renameDirectory: C:\DIRETORIOTESTE C:\DIRETORIOTESTE_RENAMED 
+2024-06-17T12:48:53.166532600 - deleteDirectory: C:\DIRETORIOTESTE_RENAMED 
+2024-06-17T12:58:17.468783700 - createDirectory: C:\Program Files\teste 
+2024-06-17T12:59:28.389991800 - createDirectory: C:\Users\leona\Desktop 
+2024-06-17T12:59:28.402602500 - copyFile: C:\Users\leona\Desktop\sourceFile.txt C:\Users\leona\Desktop\copiedFile.txt 
+2024-06-17T12:59:28.412217100 - deleteFile: C:\Users\leona\Desktop\copiedFile.txt 
+2024-06-17T12:59:28.413273900 - renameDirectory: C:\Users\leona\Desktop C:\DIRETORIOTESTE_RENAMED 
+2024-06-17T12:59:28.414278700 - deleteDirectory: C:\DIRETORIOTESTE_RENAMED 
+2024-06-17T13:05:35.411320800 - createDirectory: C:\Users\leona\Desktop 
+2024-06-17T13:05:35.433540900 - copyFile: C:\Users\leona\Desktop\sourceFile.txt C:\Users\leona\Desktop\copiedFile.txt 
