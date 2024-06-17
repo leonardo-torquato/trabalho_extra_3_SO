@@ -1,0 +1,1 @@
+simulador de sistema de arquivos implementado com journalling em java com funcionalidades basicas para manipulação de arquivos e diretórios. os testes se encontram na classe fileSystemSimulator. o log do journal se encontra no arquivo journal.log
